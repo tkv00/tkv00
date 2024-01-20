@@ -26,8 +26,13 @@
 </div>
 <br>
 <div align=center>
-    
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkv00&langs_count=10&layout=compact&theme=dark)](https://github.com/tkv00/tkv00)﻿
   ![tkv00's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkv00&show_icons=true&theme=radical)
+</div>
+<div align=center>
+    
+  
 
 </div>
 <br>
