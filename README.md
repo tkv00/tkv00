@@ -35,7 +35,7 @@
   📞Contact Me📞</h1>
   <div align=center>BLOG    
            
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole) 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@tkv00) 
  </div>
   <div align=center>
                   
