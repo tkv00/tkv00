@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=KimDoYeon&fontColor=ffffff)
+<div align=center>  
+  
+  ![header](https://capsule-render.vercel.app/api?type=venom&text=KimDoYeon&fontColor=ffffff)
+</div>
+<br>
+<br>
+<br>
 <div>
-  <h2 align=center >
-     My Stack!
+  <h1  fontstyle=bold >
+     💪My Stack!💪
   </p>
     
 </div>
@@ -16,4 +22,22 @@
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+</div>
+<br>
+<div align=center>
+    
+  ![tkv00's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkv00&show_icons=true&theme=radical)
+
+</div>
+<br>
+<h1>
+  📞Contact Me📞</h1>
+  <div align=center>BLOG    
+           
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole) 
+ </div>
+  <div align=center>
+                  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkv00)](https://github.com/eungyeole/velog-readme-stats)
 </div>
