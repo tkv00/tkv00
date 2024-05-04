@@ -1,30 +1,63 @@
-<div align=center>  
-  
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=KimDoYeon&fontColor=ffffff)
-</div>
-<br>
-<br>
-<br>
-<div>
-  <h1  fontstyle=bold >
-     💪My Stack!💪
-  </p>
-    
-</div>
-<div align=center style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 35px; margin-bottom: 35px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 35px; margin-bottom: 35px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 35px; margin-bottom: 35px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 0px; margin-bottom: 35px;" /></div><div align=center style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 35px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 35px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="62" style="width: 62px; height: 62px; margin-right: 35px; margin-bottom: 0px;" /></div>
-<div>
-  
-</div>
+
 <div align=center>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=15F754&center=true&random=false&width=1000&height=100&lines=%24Welcome+to+Do+Yeon's+GitHub" alt="Typing SVG" /></a>
 </div>
 <br>
+<br>
+<br>
+<div>
+  <br/>
+  <h1  fontstyle=bold align=center>
+     💪My Stack!💪
+  </h1>
+  </p>
+    <br/>
+<div align=center>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+</div>
+
+
+<br/>
+<br/>
+
+<h1 fontstyle=bold align=center>
+  🛠️TOOLS🛠️
+</h1>
+<br/>
+<div align=center>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+</div>
+<br/>
+<br/>
+<h1 fontstyle=bold align=center>
+  
+  📚Studying📚
+</h1>
+  <div align=center>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
+  </div>
+  
+</div>
+<br/>
+
+<br/>
 <div align=center>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkv00&langs_count=10&layout=compact&theme=dark)](https://github.com/tkv00/tkv00)
