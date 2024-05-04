@@ -69,16 +69,3 @@
 <div align=center>
     
   
-
-</div>
-<br>
-<h1>
-  📞Contact Me📞</h1>
-  <div align=center>BLOG    
-           
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tkv00)](https://velog.io/@tkv00) 
- </div>
-  <div align=center>
-                  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkv00)](https://github.com/eungyeole/velog-readme-stats)
-</div>
