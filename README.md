@@ -7,12 +7,12 @@
 <br>
 <div>
   <br/>
-  <h1  fontstyle=bold align=center>
+  <h2  fontstyle=bold>
      💪My Stack!💪
   </h1>
   </p>
     <br/>
-<div align=center>
+<div >
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
@@ -29,11 +29,11 @@
 <br/>
 <br/>
 
-<h1 fontstyle=bold align=center>
+<h2 fontstyle=bold>
   🛠️TOOLS🛠️
 </h1>
 <br/>
-<div align=center>
+<div >
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
@@ -45,11 +45,11 @@
 </div>
 <br/>
 <br/>
-<h1 fontstyle=bold align=center>
+<h2 fontstyle=bold >
   
   📚Studying📚
 </h1>
-  <div align=center>
+  <div >
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
   </div>
