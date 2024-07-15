@@ -47,15 +47,7 @@
 <br/>
 <h2 fontstyle=bold >
   
-  📚Studying📚
-</h1>
-  <div >
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
-  </div>
-  
-</div>
-<br/>
+
 
 <br/>
 <div align=center>
