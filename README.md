@@ -1,15 +1,33 @@
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a95d3,10:5cacde,30:89c3e7,75:c4e3f4,100:ecf8fd&height=100&section=header&text=&fontSize=30" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a95d3,10:5cacde,30:89c3e7,75:c4e3f4,100:ecf8fd&fontColor=d5e6f5&height=100&section=header&text=&fontSize=50" width="100%"/>
+ 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Matemasie&family=Unbounded:wght@200..900&display=swap" rel="stylesheet">
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=40&pause=1000&color=FBFBFBDA&center=true&vCenter=true&width=500&height=70&lines=Do+Yeon's+GitHub" alt="Typing SVG" /></a>
 
 <details>
 <summary>About Me</summary>
-<h3>Beakjoon
+
+<div align="left">
+
+#### 💻FrontEnd
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white">
+<img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=react query&logoColor=purple">
+
+ #### 💻BackEnd
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
  
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkv00)](https://solved.ac/tkv00)
+#### 🧑‍🎓Beakjoon
+ 
+<img width="100" height="auto" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkv00">
+ </div>
 </summary>
 </details>
  
@@ -23,10 +41,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tkv00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkv00&count_bg=%2386D0EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 <img src="https://github.com/tkv00/tkv00/blob/output/github-snake-dark.svg" width="100%">
 
+<div align="center">
+
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkv00&count_bg=%2386D0EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a95d3,10:5cacde,30:89c3e7,75:c4e3f4,100:ecf8fd&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
