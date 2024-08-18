@@ -1,63 +1,30 @@
+<div align="center">
 
-<div align=center>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=15F754&center=true&random=false&width=1000&height=100&lines=%24Welcome+to+Do+Yeon's+GitHub" alt="Typing SVG" /></a>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a95d3,10:5cacde,30:89c3e7,75:c4e3f4,100:ecf8fd&height=100&section=header&text=&fontSize=30" width="100%"/>
+
+
+
+<details>
+<summary>About Me</summary>
+<h3>Beakjoon
+ 
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkv00)](https://solved.ac/tkv00)
+</summary>
+</details>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkv00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tkv00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tkv00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkv00&count_bg=%2386D0EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a95d3,10:5cacde,30:89c3e7,75:c4e3f4,100:ecf8fd&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
 </div>
-<br>
-<br>
-<br>
-<div>
-  <br/>
-  <h2  fontstyle=bold>
-     💪My Stack!💪
-  </h1>
-  </p>
-    <br/>
-<div >
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-</div>
-
-
-<br/>
-<br/>
-
-<h2 fontstyle=bold>
-  🛠️TOOLS🛠️
-</h1>
-<br/>
-<div >
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
-</div>
-<br/>
-<br/>
-<h2 fontstyle=bold >
-  
-
-
-<br/>
-<div align=center>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkv00&langs_count=10&layout=compact&theme=dark)](https://github.com/tkv00/tkv00)
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkv00)](https://solved.ac/tkv00)
-
-  ![tkv00's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkv00&show_icons=true&theme=radical)
-</div>
-<div align=center>
-    
-  
