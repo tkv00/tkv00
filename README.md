@@ -25,6 +25,8 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkv00&count_bg=%2386D0EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+<img src="https://github.com/tkv00/tkv00/blob/output/github-snake-dark.svg" width="100%">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a95d3,10:5cacde,30:89c3e7,75:c4e3f4,100:ecf8fd&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
