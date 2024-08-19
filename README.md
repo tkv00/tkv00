@@ -23,6 +23,9 @@
  #### 💻BackEnd
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+
+ #### 🇲🇭Activity
+ <p>🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.08</p>
  
 #### 🧑‍🎓Beakjoon
  
