@@ -26,6 +26,10 @@
 
  #### 🇲🇭Activity
  <p>🦁멋쟁이 사자처럼 12th 2024.03 ~ </p>
+
+#### 🔊project
+<p>2024.7.14~2024.08.07</p>
+<a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE">Bigginer Fit</a> 
  
 #### 🧑‍🎓Beakjoon
  
