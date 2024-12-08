@@ -26,11 +26,18 @@
 
  #### 🇲🇭Activity
  <p>🦁멋쟁이 사자처럼 12th 2024.03 ~ </p>
- <p>✏️SQLD 자격즈 2024.11</p>
+ <p>✏️SQLD 자격증 2024.11</p>
 
 #### 🔊project
-<p>2024.7.14~2024.08.07</p>
+<p>2024.7.14 ~ 2024.08.07</p>
 <a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE">Bigginer Fit</a> 
+
+<p>2024.09.08 ~ </p>
+<a href="https://github.com/Yeungnam-Nyang">영남냥</a>
+
+<p>2024.09.28~2024.12.06</p>
+<a href="https://github.com/software-project-yu/WealthTracker-BE">WealthTracker</a>
+
  
 #### 🧑‍🎓Beakjoon
  
