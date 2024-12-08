@@ -29,14 +29,13 @@
  <p>✏️SQLD 자격증 2024.11</p>
 
 #### 🔊project
-<p>2024.7.14 ~ 2024.08.07</p>
-<a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE">Bigginer Fit</a> 
 
-<p>2024.09.08 ~ </p>
-<a href="https://github.com/Yeungnam-Nyang">영남냥</a>
+<a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE">Bigginer Fit(2024.7.14 ~ 2024.08.07)</a> 
 
-<p>2024.09.28~2024.12.06</p>
-<a href="https://github.com/software-project-yu/WealthTracker-BE">WealthTracker</a>
+
+<a href="https://github.com/Yeungnam-Nyang">영남냥(2024.09.08~)</a>
+
+<a href="https://github.com/software-project-yu/WealthTracker-BE">WealthTracker(2024.09.28~2024.12.06)</a>
 
  
 #### 🧑‍🎓Beakjoon
