@@ -26,7 +26,7 @@
 
  #### 🇲🇭Activity
  ##### [🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12](https://drive.google.com/file/d/1KYQ7LpR80xDTVlhYvOTVUT4AxKFBpr4L/view?usp=sharing)
- ##### [✏️SQLD 자격증 2024.11](https://drive.google.com/file/d/1RNd2fNIa1XvyAVyJbuV5SzbOEO9kCF4V/view?usp=sharing)
+ ##### [✏️SQLD 자격증 2024.11](https://drive.google.com/file/d/16L_jv_ocHgccdDgDT-IH1ni5fhaYRh99/view?usp=sharing)
 
 #### 🔊project
 
