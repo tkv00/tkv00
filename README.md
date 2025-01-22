@@ -25,8 +25,8 @@
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
  #### 🇲🇭Activity
- <p>🦁멋쟁이 사자처럼 12th 2024.03 ~ </p>
- <p>✏️SQLD 자격증 2024.11</p>
+ ##### [🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12](https://drive.google.com/file/d/1KYQ7LpR80xDTVlhYvOTVUT4AxKFBpr4L/view?usp=sharing)
+ ##### [✏️SQLD 자격증 2024.11](https://drive.google.com/file/d/16L_jv_ocHgccdDgDT-IH1ni5fhaYRh99/view?usp=sharing)
 
 #### 🔊project
 
