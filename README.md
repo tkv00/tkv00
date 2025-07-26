@@ -28,7 +28,9 @@
  ## 💭 Activity
  #### [🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12](https://drive.google.com/file/d/1KYQ7LpR80xDTVlhYvOTVUT4AxKFBpr4L/view?usp=sharing)
  #### [✏️SQLD 자격증 2024.11](https://drive.google.com/file/d/16L_jv_ocHgccdDgDT-IH1ni5fhaYRh99/view?usp=sharing)
+  #### ✏️정보처리기사 자격증 2025.06
  #### [💻SWYP 8기 BE파트 2025.01 ~ 2025.03](https://drive.google.com/file/d/1HlW1rYGeyyXsAyE5MHifZTP9vYFo8Uei/view)
+ 
 
 ## 💭 project
 
