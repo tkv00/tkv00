@@ -1,0 +1,25 @@
+{
+  "name": "tkv00-1",
+  "version": "1.0.0",
+  "description": "> I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkv00/tkv00.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkv00/tkv00/issues"
+  },
+  "homepage": "https://github.com/tkv00/tkv00#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
