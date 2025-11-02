@@ -1,3 +1,11 @@
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/cbe51f20-e31d-4004-b056-70fc8d2ce4dc"
+       alt="DoYeon Kim intro gif"
+       style="width: 100vw; height: auto; max-width: none; display: block; margin: 0; padding: 0;" />
+</p>
+
 # Hi,there I'm DoYeon Kim.
 > I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.
 
