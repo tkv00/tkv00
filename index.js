@@ -68,7 +68,7 @@ const parser = new Parser({
     const feed=await parser.parseURL('https://codekim3570.tistory.com/rss');
 
 
-    for(let i=0;i<5;i++){
+    for(let i=0;i<3;i++){
         const {title,link}=feed.items[i];
         console.log(`${title}\n${link}\n`);
         text+=`<li><a href="${link}" target='_blank'>${title}</a></li>\n`;
