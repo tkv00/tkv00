@@ -49,4 +49,11 @@
 ## 💭 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkv00)](https://solved.ac/tkv00/)
 
- 
+
+## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-CICD-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EA%B0%84-45%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-Docker-%EC%B5%9C%EC%A0%81%ED%99%94" target='_blank'>[Shoot-Pointer] CI/CD 배포 시간 4.5배 빠르게 실행시키기 - Docker 최적화</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EA%B2%80%EC%83%89-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-ElasticSearch-%EB%8F%84%EC%9E%85%EA%B8%B02-%EA%B2%80%EC%83%89%EC%9A%A9-%EC%BF%BC%EB%A6%AC-nDCGMRRMAP-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-%EB%B9%84%EA%B5%90-5589%F0%9F%94%BA-%EC%A0%95%ED%99%95%EC%84%B1-%ED%96%A5%EC%83%81" target='_blank'>[Shoot-Pointer] 게시물 검색 성능 개선 - ElasticSearch 도입기(2) (검색용 쿼리 + nDCG/MRR/MAP 성능 지표 비교 55.89%  정확성 향상)</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EA%B2%80%EC%83%89-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-ElasticSearch-%EB%8F%84%EC%9E%85%EA%B8%B01-Docker%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-ElasticSearch-Kibana-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95" target='_blank'>[Shoot-Pointer] 게시물 검색 성능 개선 - ElasticSearch 도입기(1) (Docker를 이용한 ElasticSearch + Kibana 구축 및 테스트 환경 구축)</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-%EC%A2%8B%EC%95%84%EC%9A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0" target='_blank'>[Shoot-Pointer] 좋아요 동시성 제어하기</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/LG-%EC%9C%A0%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%9C%A0%EB%A0%88%EC%B9%B4-3%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%8C%80%EB%A9%B4-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0" target='_blank'>[LG 유플러스] 유레카 3기 백엔드 대면 합격 후기</a></li>
+</ul>
