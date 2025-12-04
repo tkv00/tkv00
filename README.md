@@ -35,12 +35,19 @@
 | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=notion,github,slack,figma,jira&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jwt&perline=6)](https://skillicons.dev) |
 
 
+<br/>
+
  ## 💭 Activity
- #### [🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12](https://drive.google.com/file/d/1KYQ7LpR80xDTVlhYvOTVUT4AxKFBpr4L/view?usp=sharing)
- #### [✏️SQLD 자격증 2024.11](https://drive.google.com/file/d/16L_jv_ocHgccdDgDT-IH1ni5fhaYRh99/view?usp=sharing)
-  #### ✏️정보처리기사 자격증 2025.06
- #### [💻SWYP 8기 BE파트 2025.01 ~ 2025.03](https://drive.google.com/file/d/1HlW1rYGeyyXsAyE5MHifZTP9vYFo8Uei/view)
- 
+ #### 🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12
+ #### 💻SWYP 8기 BE파트 2025.01 ~ 2025.03
+
+<br/>
+
+ ## 💭 Certificate
+ #### ✏️SQLD
+ #### ✏️정보처리기사
+ #### ✏️ADsP
+ #### ✏️TOEIC Speaking 140(IH) 
 
 ## 💭 project
 
@@ -55,10 +62,12 @@
  
 <a href="https://github.com/Team-Qampus/Quampus_BE">Qampus(2025.01.20 ~ 2025.03.15)</a>
 
+<br/>
 
 ## 💭 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkv00)](https://solved.ac/tkv00/)
 
+<br/>
 
 ## 💭 Recent Posts
 <li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-CICD-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EA%B0%84-45%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-Docker-%EC%B5%9C%EC%A0%81%ED%99%94" target='_blank'>[Shoot-Pointer] CI/CD 배포 시간 4.5배 빠르게 실행시키기 - Docker 최적화</a></li>
