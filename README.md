@@ -70,7 +70,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-3%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9E%A0%EA%B8%88" target='_blank'>[DB-STUDY] 3주차 - 트랜잭션/잠금</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-2%EC%A3%BC%EC%B0%A8-IO-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%EC%99%80-%ED%9E%8C%ED%8A%B8" target='_blank'>[DB-STUDY] 2주차 - I/O 옵티마이저와 힌트</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-CICD-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EA%B0%84-45%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-Docker-%EC%B5%9C%EC%A0%81%ED%99%94" target='_blank'>[Shoot-Pointer] CI/CD 배포 시간 4.5배 빠르게 실행시키기 - Docker 최적화</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EA%B2%80%EC%83%89-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-ElasticSearch-%EB%8F%84%EC%9E%85%EA%B8%B02-%EA%B2%80%EC%83%89%EC%9A%A9-%EC%BF%BC%EB%A6%AC-nDCGMRRMAP-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-%EB%B9%84%EA%B5%90-5589%F0%9F%94%BA-%EC%A0%95%ED%99%95%EC%84%B1-%ED%96%A5%EC%83%81" target='_blank'>[Shoot-Pointer] 게시물 검색 성능 개선 - ElasticSearch 도입기(2) (검색용 쿼리 + nDCG/MRR/MAP 성능 지표 비교 55.89%  정확성 향상)</a></li>
 </ul>
