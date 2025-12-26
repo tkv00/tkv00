@@ -70,7 +70,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-4%EC%A3%BC%EC%B0%A8-%EC%9D%B8%EB%8D%B1%EC%8A%A4" target='_blank'>[DB-STUDY] 4주차 - 인덱스</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-3%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9E%A0%EA%B8%88" target='_blank'>[DB-STUDY] 3주차 - 트랜잭션/잠금</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-2%EC%A3%BC%EC%B0%A8-IO-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%EC%99%80-%ED%9E%8C%ED%8A%B8" target='_blank'>[DB-STUDY] 2주차 - I/O 옵티마이저와 힌트</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-CICD-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EA%B0%84-45%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-Docker-%EC%B5%9C%EC%A0%81%ED%99%94" target='_blank'>[Shoot-Pointer] CI/CD 배포 시간 4.5배 빠르게 실행시키기 - Docker 최적화</a></li>
 </ul>
