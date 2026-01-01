@@ -70,7 +70,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-5%EC%A3%BC%EC%B0%A8-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%8A%9C%EB%8B%9D" target='_blank'>[DB-STUDY] 5주차 - 인덱스 튜닝</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-Refactoring01%EC%84%A4%EA%B3%84%EC%9D%98-%EC%9B%90%EC%B9%99-%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0-%EC%BD%94%EB%93%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%A0-3%EA%B0%80%EC%A7%80-%EB%A0%88%EC%8B%9C%ED%94%BC" target='_blank'>[Shoot-Pointer] Refactoring01.설계의 원칙 - 스파게티 코드를 해결할 3가지 레시피</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-4%EC%A3%BC%EC%B0%A8-%EC%9D%B8%EB%8D%B1%EC%8A%A4" target='_blank'>[DB-STUDY] 4주차 - 인덱스</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/DB-STUDY-3%EC%A3%BC%EC%B0%A8-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9E%A0%EA%B8%88" target='_blank'>[DB-STUDY] 3주차 - 트랜잭션/잠금</a></li>
 </ul>
