@@ -1,17 +1,12 @@
-import {writeFileSync} from 'fs';
-import Parser from 'rss-parser';
+import { writeFileSync } from "fs";
+import Parser from "rss-parser";
 
 let text = `
 
-<p align="center">
-
-  <img src="https://github.com/user-attachments/assets/cbe51f20-e31d-4004-b056-70fc8d2ce4dc"
-       alt="DoYeon Kim intro gif"
-       style="width: 100vw; height: auto; max-width: none; display: block; margin: 0; padding: 0;" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=80&pause=1000&color=32ADE4&center=true&vCenter=true&random=true&width=1200&height=140&lines=Hi%2C+Welcome+to+Doyeon's+Github" alt="Typing SVG" /></a>
 
 
-# Hi,there I'm DoYeon Kim.
+
 > I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.
 
 <br/>
@@ -76,27 +71,24 @@ let text = `
 `;
 
 const parser = new Parser({
-    headers:{
-        Accept: 'application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8',
-    }
+  headers: {
+    Accept: "application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8",
+  },
 });
 
 (async () => {
+  //피드
+  const feed = await parser.parseURL("https://codekim3570.tistory.com/rss");
 
-    //피드
-    const feed=await parser.parseURL('https://codekim3570.tistory.com/rss');
+  for (let i = 0; i < 3; i++) {
+    const { title, link } = feed.items[i];
+    console.log(`${title}\n${link}\n`);
+    text += `<li><a href="${link}" target='_blank'>${title}</a></li>\n`;
+  }
 
+  text += `</ul>`;
 
-    for(let i=0;i<3;i++){
-        const {title,link}=feed.items[i];
-        console.log(`${title}\n${link}\n`);
-        text+=`<li><a href="${link}" target='_blank'>${title}</a></li>\n`;
-    }
-
-    text+=`</ul>`;
-
-    writeFileSync('README.md',text,'utf-8',(e)=>{
-        console.log(e);
-    });
-
+  writeFileSync("README.md", text, "utf-8", (e) => {
+    console.log(e);
+  });
 })();
