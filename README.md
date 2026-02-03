@@ -65,7 +65,7 @@
 <br/>
 
 ## 💭 Recent Posts
-<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4" target='_blank'>[JAVA-STUDY] 2주차 - 객체와 클래스</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-JVM-2-%ED%9E%99%EA%B3%BC-GC" target='_blank'>[JAVA-STUDY] 2주차 - JVM 2-힙과 GC</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4" target='_blank'>[JAVA-STUDY] 3주차 - 객체와 클래스</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-1%EC%A3%BC%EC%B0%A8-Java-JVM" target='_blank'>[JAVA-STUDY] 1주차 - Java JVM</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-Refactoring02%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4-%EC%9E%AC%EB%A3%8C%EC%99%80-%EB%8F%84%EA%B5%AC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0" target='_blank'>[Shoot-Pointer] Refactoring02.도메인의 이해 - 재료와 도구 이해하기</a></li>
 </ul>
