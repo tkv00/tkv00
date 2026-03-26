@@ -1,14 +1,9 @@
 
 
-<p align="center">
-
-  <img src="https://github.com/user-attachments/assets/cbe51f20-e31d-4004-b056-70fc8d2ce4dc"
-       alt="DoYeon Kim intro gif"
-       style="width: 100vw; height: auto; max-width: none; display: block; margin: 0; padding: 0;" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=80&pause=1000&color=32ADE4&center=true&vCenter=true&random=true&width=1200&height=140&lines=Hi%2C+Welcome+to+Doyeon's+Github" alt="Typing SVG" /></a>
 
 
-# Hi,there I'm DoYeon Kim.
+
 > I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.
 
 <br/>
@@ -70,7 +65,7 @@
 <br/>
 
 ## 💭 Recent Posts
-<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4" target='_blank'>[JAVA-STUDY] 2주차 - 객체와 클래스</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-JVM-2-%ED%9E%99%EA%B3%BC-GC" target='_blank'>[JAVA-STUDY] 2주차 - JVM 2-힙과 GC</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4" target='_blank'>[JAVA-STUDY] 3주차 - 객체와 클래스</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-1%EC%A3%BC%EC%B0%A8-Java-JVM" target='_blank'>[JAVA-STUDY] 1주차 - Java JVM</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Shoot-Pointer-Refactoring02%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98-%EC%9D%B4%ED%95%B4-%EC%9E%AC%EB%A3%8C%EC%99%80-%EB%8F%84%EA%B5%AC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0" target='_blank'>[Shoot-Pointer] Refactoring02.도메인의 이해 - 재료와 도구 이해하기</a></li>
 </ul>
