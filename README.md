@@ -86,7 +86,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EA%B3%A0%EB%8F%84%ED%99%94-%EC%9D%B8%EC%A6%9D-%EB%B3%B4%ED%98%B8%EC%9C%A8-0-%E2%86%92-100" target='_blank'>[Holliverse] 예외처리 고도화 - 인증 보호율 0% &rarr; 100%</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/AWS-Step-Function-%EC%8B%A4%ED%96%89-%EC%8B%A4%ED%8C%A8%EC%99%80-ECS-%EC%A0%95%EC%83%81-%EC%83%81%ED%83%9C-%EB%AA%A8%EC%88%9C-CDK-%EB%B0%B0%ED%8F%AC-%EB%B6%88%EC%9D%BC%EC%B9%98%EC%99%80-Security-Group-Egress-%EB%88%84%EB%9D%BD-%EC%B6%94%EC%A0%81%EA%B8%B0" target='_blank'>[Holliverse] AWS Step Function 실행 실패와 ECS 정상 상태 모순: CDK 배포 불일치와 Security Group Egress 누락 추적기</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-AWS-Infra-%EA%B5%AC%EC%B6%95%EA%B8%B03-CICDCT-%EC%84%A4%EA%B3%84-%EB%B0%8F-%EA%B5%AC%ED%98%84%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC-509-%EC%A0%88%EA%B0%90-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC-816-%EC%A0%88%EA%B0%90" target='_blank'>[Holliverse] AWS Infra 구축기(3) - CI/CD/CT 설계 및 구현(서비스  배포 -50.9% 절감, 모니터링 서비스 배포 -81.6% 절감)</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Holliverse-AWS-Infra-%EA%B5%AC%EC%B6%95%EA%B8%B02-Network-%EC%84%A4%EA%B3%84-%EA%B5%AC%ED%98%84" target='_blank'>[Holliverse] AWS Infra 구축기(2) - Network 설계 / 구현</a></li>
 </ul>
