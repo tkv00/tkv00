@@ -86,7 +86,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/TR1L-Event-Storming-DDD-Bounded-Context-Domain-Model-%EC%84%A4%EA%B3%84" target='_blank'>[TR1L] Event Storming, DDD, Bounded Context, Domain Model 설계</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-%EC%84%A4%EA%B3%84-2-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%B6%95" target='_blank'>[Holliverse] 이탈률 구현 설계 (2) - 오케스트레이션 구축</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-%EC%84%A4%EA%B3%84-1-%EC%9D%B4%ED%83%88%EB%A5%A0%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0" target='_blank'>[Holliverse] 이탈률 구현 설계 (1) - 이탈률의 생명주기</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EA%B3%A0%EB%8F%84%ED%99%94-%EC%9D%B8%EC%A6%9D-%EB%B3%B4%ED%98%B8%EC%9C%A8-0-%E2%86%92-100" target='_blank'>[Holliverse] 예외처리 고도화 - 인증 보호율 0% &rarr; 100%</a></li>
 </ul>
