@@ -86,7 +86,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-Infra-%EA%B5%AC%EC%B6%95%EA%B8%B01-%EB%82%B4%EA%B0%80-AWS-CDK%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0" target='_blank'>[Holliverse] AWS Infra 구축기(1) - 내가 AWS CDK를 선택한 이유</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-JVM-2-%ED%9E%99%EA%B3%BC-GC" target='_blank'>[JAVA-STUDY] 2주차 - JVM 2-힙과 GC</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-2%EC%A3%BC%EC%B0%A8-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4" target='_blank'>[JAVA-STUDY] 3주차 - 객체와 클래스</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/JAVA-STUDY-1%EC%A3%BC%EC%B0%A8-Java-JVM" target='_blank'>[JAVA-STUDY] 1주차 - Java JVM</a></li>
 </ul>
