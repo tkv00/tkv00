@@ -86,7 +86,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-AWS-ECS-Auto-Scaling-CPU-994%EC%B0%8D%EA%B3%A0-%ED%84%B0%EC%A0%B8-%EB%B2%84%EB%A6%B0-%EC%84%9C%EB%B2%84-%EB%B3%B5%EA%B5%AC%EA%B8%B0" target='_blank'>[Holliverse] AWS ECS Auto Scaling - CPU 99.4%찍고 터져 버린 서버 복구기</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/TR1L-Event-Storming-DDD-Bounded-Context-Domain-Model-%EC%84%A4%EA%B3%84" target='_blank'>[TR1L] Event Storming, DDD, Bounded Context, Domain Model 설계</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-%EC%84%A4%EA%B3%84-2-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%B6%95" target='_blank'>[Holliverse] 이탈률 구현 설계 (2) - 오케스트레이션 구축</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-%EC%84%A4%EA%B3%84-1-%EC%9D%B4%ED%83%88%EB%A5%A0%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0" target='_blank'>[Holliverse] 이탈률 구현 설계 (1) - 이탈률의 생명주기</a></li>
 </ul>
