@@ -4,20 +4,13 @@
 
 
 
-> 요구사항을 서버 구조와 데이터 흐름으로 풀어내는 사람.
-> 대용량 트래픽, 분산 시스템, 성능 최적화를 코드로 풀어냅니다.
+> I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.
 
 <br/>
 <br/>
 
 <div align="left">
  
-## 💭 Portfolio
-
-http://kimdoyeon.site
-
-<br/>
-
 ## 💭 Skills
 
 | Language | Framework |
@@ -26,7 +19,7 @@ http://kimdoyeon.site
 
 | Database | DevOps |
 |---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
 
 | Cloud & Infra | Testing Tools |
 |---|---|
@@ -75,11 +68,6 @@ http://kimdoyeon.site
 
 <a href="https://github.com/Team-Qampus/Quampus_BE"><b>Qampus</b></a> <sub>(2025.01.20 ~ 2025.03.15)</sub><br/>
 대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스
-
-<br/>
-
-<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>ShootPointer</b></a> <sub>(2025.09 ~ 2025.12)</sub><br/>
-농구 영상을 업로드하면 개인 하이라이트를 생성하고, 이를 커뮤니티 게시글·검색·랭킹으로 연결하는 스포츠 하이라이트  서비스
 
 <br/>
 
