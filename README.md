@@ -4,7 +4,8 @@
 
 
 
-> I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.
+> 요구사항을 서버 구조와 데이터 흐름으로 풀어내는 사람.
+대용량 트래픽, 분산 시스템, 성능 최적화를 코드로 풀어냅니다.
 
 <br/>
 <br/>
@@ -19,7 +20,7 @@
 
 | Database | DevOps |
 |---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
 
 | Cloud & Infra | Testing Tools |
 |---|---|
@@ -63,6 +64,11 @@
 
 <a href="https://github.com/sw-security-web-app/sw-security-web-app_BE"><b>Vero</b></a> <sub>(2025.01.26 ~ 2025.03.07)</sub><br/>
 정보보안 SW 웹/앱 개발 공모전을 위해 진행한 보안 중심 웹 서비스 프로젝트
+
+<br/>
+
+<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>ShootPointer</b></a> <sub>(2025.09 ~ 2025.12)</sub><br/>
+농구 영상을 업로드하면 개인 하이라이트를 생성하고, 이를 커뮤니티 게시글·검색·랭킹으로 연결하는 스포츠 하이라이트  서비스
 
 <br/>
 
