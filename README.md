@@ -73,13 +73,13 @@ http://kimdoyeon.site
 
 <br/>
 
-<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>ShootPointer</b></a> <sub>(2025.09 ~ 2025.12)</sub><br/>
-농구 영상을 업로드하면 개인 하이라이트를 생성하고, 이를 커뮤니티 게시글·검색·랭킹으로 연결하는 스포츠 하이라이트  서비스
+<a href="https://github.com/Team-Qampus/Quampus_BE"><b>Qampus</b></a> <sub>(2025.01.20 ~ 2025.03.15)</sub><br/>
+대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스
 
 <br/>
 
-<a href="https://github.com/Team-Qampus/Quampus_BE"><b>Qampus</b></a> <sub>(2025.01.20 ~ 2025.03.15)</sub><br/>
-대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스
+<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>ShootPointer</b></a> <sub>(2025.09 ~ 2025.12)</sub><br/>
+농구 영상을 업로드하면 개인 하이라이트를 생성하고, 이를 커뮤니티 게시글·검색·랭킹으로 연결하는 스포츠 하이라이트  서비스
 
 <br/>
 
