@@ -86,7 +86,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-3-Burst-Test%EC%99%80-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%A0%95%ED%95%A9%EC%84%B1-%EA%B9%A8%EC%A7%90" target='_blank'>[Holliverse] 이탈률 구현 (3) - Burst Test와 첫 번째 정합성 깨짐</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1-Baseline%E2%80%A2Peak-Test" target='_blank'>[Holliverse] 이탈률 구현 (2) - Baseline&bull;Peak Test</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1-Test-Scenario-%EC%9E%91%EC%84%B1" target='_blank'>[Holliverse] 이탈률 구현 (1) - Test Scenario 작성</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/TR1L-100%EB%A7%8C-%EB%AA%85-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%B2%AD%EA%B5%AC%EC%84%9C-%EC%83%9D%EC%84%B11-Spring-Batch-%EC%A0%95%EC%82%B0-Job-%EC%84%A4%EA%B3%84" target='_blank'>[TR1L] 100만 명 통신사 청구서 생성(1) -  Spring Batch 정산 Job 설계</a></li>
 </ul>
