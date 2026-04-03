@@ -4,20 +4,67 @@
 
 
 
-> 요구사항을 서버 구조와 데이터 흐름으로 풀어내는 사람.
-> 대용량 트래픽, 분산 시스템, 성능 최적화를 코드로 풀어냅니다.
+> 안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연 입니다.
 
 <br/>
+
+<div align="center">
+
+### WHERE TO FIND ME
+
+<sub><b>프로젝트, 기술 기록, 협업 연락을 한눈에 볼 수 있도록 정리했습니다.</b></sub>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://kimdoyeon.site" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:38BDF8&height=140&text=OPEN%20PORTFOLIO&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=40&desc=kimdoyeon.site%20%7C%20Backend%20Projects%20and%20Architecture&descAlignY=70&descSize=18" alt="Portfolio"/>
+      </a>
+      <br/>
+      <sub><b>가장 먼저 보면 좋은 메인 포트폴리오</b></sub><br/>
+      <sub>프로젝트 결과, 설계 의도, 구현 경험을 한 번에 정리한 공간</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://codekim3570.tistory.com" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9A3412,100:F97316&height=110&text=TECH%20BLOG&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=codekim3570.tistory.com&descAlignY=70&descSize=16" alt="Tech Blog"/>
+      </a>
+      <br/>
+      <sub><b>트러블슈팅과 설계 기록</b></sub><br/>
+      <sub>운영 이슈, 성능 개선, 구현 과정을 깊게 남기는 공간</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="mailto:tkv0098@gmail.com">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:991B1B,100:EF4444&height=110&text=EMAIL&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=tkv0098%40gmail.com&descAlignY=70&descSize=16" alt="Email"/>
+      </a>
+      <br/>
+      <sub><b>협업 및 문의 연락처</b></sub><br/>
+      <sub>프로젝트 제안, 협업 문의, 기타 연락을 받을 수 있는 메일</sub>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://kimdoyeon.site" target="_blank">
+    <img src="https://img.shields.io/badge/Main%20Link-Portfolio-1D4ED8?style=flat-square&labelColor=0F172A&logoColor=white" alt="Main Link"/>
+  </a>
+  <a href="https://codekim3570.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
+  </a>
+  <a href="mailto:tkv0098@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-EF4444?style=flat-square&labelColor=991B1B&logo=gmail&logoColor=white" alt="Contact"/>
+  </a>
+</p>
+
+</div>
+
 <br/>
 
 <div align="left">
  
-## 💭 Portfolio
-
-http://kimdoyeon.site
-
-<br/>
-
 ## 💭 Skills
 
 | Language | Framework |
@@ -26,7 +73,7 @@ http://kimdoyeon.site
 
 | Database | DevOps |
 |---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
 
 | Cloud & Infra | Testing Tools |
 |---|---|
@@ -78,8 +125,8 @@ http://kimdoyeon.site
 
 <br/>
 
-<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>ShootPointer</b></a> <sub>(2025.09 ~ 2025.12)</sub><br/>
-농구 영상을 업로드하면 개인 하이라이트를 생성하고, 이를 커뮤니티 게시글·검색·랭킹으로 연결하는 스포츠 하이라이트  서비스
+<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>Shoot Pointer</b></a> <sub>(2025.05 ~ 2025.12)</sub><br/>
+농구 영상을 업로드하면 개인 하이라이트를 생성하고, 생성된 결과를 커뮤니티 게시글과 랭킹으로 연결하는 서비스.
 
 <br/>
 
@@ -98,7 +145,7 @@ http://kimdoyeon.site
 <br/>
 
 ## 💭 Recent Posts
-<li><a href="https://codekim3570.tistory.com/entry/TR1L-100%EB%A7%8C-%EB%AA%85-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%B2%AD%EA%B5%AC%EC%84%9C-%EC%83%9D%EC%84%B11-Spring-Batch-%EC%A0%95%EC%82%B0-Job-%EC%84%A4%EA%B3%84" target='_blank'>[TR1L] 100만 명 통신사 청구서 생성(1) -  Spring Batch 정산 Job 설계</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Holliverse-AWS-ECS-Auto-Scaling-CPU-994%EC%B0%8D%EA%B3%A0-%ED%84%B0%EC%A0%B8-%EB%B2%84%EB%A6%B0-%EC%84%9C%EB%B2%84-%EB%B3%B5%EA%B5%AC%EA%B8%B0" target='_blank'>[Holliverse] AWS ECS Auto Scaling - CPU 99.4%찍고 터져 버린 서버 복구기</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/TR1L-Event-Storming-DDD-Bounded-Context-Domain-Model-%EC%84%A4%EA%B3%84" target='_blank'>[TR1L] Event Storming, DDD, Bounded Context, Domain Model 설계</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-3-Burst-Test%EC%99%80-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%A0%95%ED%95%A9%EC%84%B1-%EA%B9%A8%EC%A7%90" target='_blank'>[Holliverse] 이탈률 구현 (3) - Burst Test와 첫 번째 정합성 깨짐</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1-Baseline%E2%80%A2Peak-Test" target='_blank'>[Holliverse] 이탈률 구현 (2) - Baseline&bull;Peak Test</a></li>
+<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1-Test-Scenario-%EC%9E%91%EC%84%B1" target='_blank'>[Holliverse] 이탈률 구현 (1) - Test Scenario 작성</a></li>
 </ul>

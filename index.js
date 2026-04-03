@@ -7,9 +7,63 @@ let text = `
 
 
 
-> I am a developer who keeps up with new technology trends and evolving languages without fear, always eager to learn and grow. I prefer collaboration over working alone, enjoying the exchange of ideas and feedback with teammates. I strive to write clean code and build clean architectures.
+> 안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연 입니다.
 
 <br/>
+
+<div align="center">
+
+### WHERE TO FIND ME
+
+<sub><b>프로젝트, 기술 기록, 협업 연락을 한눈에 볼 수 있도록 정리했습니다.</b></sub>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://kimdoyeon.site" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:38BDF8&height=140&text=OPEN%20PORTFOLIO&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=40&desc=kimdoyeon.site%20%7C%20Backend%20Projects%20and%20Architecture&descAlignY=70&descSize=18" alt="Portfolio"/>
+      </a>
+      <br/>
+      <sub><b>가장 먼저 보면 좋은 메인 포트폴리오</b></sub><br/>
+      <sub>프로젝트 결과, 설계 의도, 구현 경험을 한 번에 정리한 공간</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://codekim3570.tistory.com" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9A3412,100:F97316&height=110&text=TECH%20BLOG&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=codekim3570.tistory.com&descAlignY=70&descSize=16" alt="Tech Blog"/>
+      </a>
+      <br/>
+      <sub><b>트러블슈팅과 설계 기록</b></sub><br/>
+      <sub>운영 이슈, 성능 개선, 구현 과정을 깊게 남기는 공간</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="mailto:tkv0098@gmail.com">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:991B1B,100:EF4444&height=110&text=EMAIL&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=tkv0098%40gmail.com&descAlignY=70&descSize=16" alt="Email"/>
+      </a>
+      <br/>
+      <sub><b>협업 및 문의 연락처</b></sub><br/>
+      <sub>프로젝트 제안, 협업 문의, 기타 연락을 받을 수 있는 메일</sub>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://kimdoyeon.site" target="_blank">
+    <img src="https://img.shields.io/badge/Main%20Link-Portfolio-1D4ED8?style=flat-square&labelColor=0F172A&logoColor=white" alt="Main Link"/>
+  </a>
+  <a href="https://codekim3570.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
+  </a>
+  <a href="mailto:tkv0098@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-EF4444?style=flat-square&labelColor=991B1B&logo=gmail&logoColor=white" alt="Contact"/>
+  </a>
+</p>
+
+</div>
+
 <br/>
 
 <div align="left">
@@ -22,7 +76,7 @@ let text = `
 
 | Database | DevOps |
 |---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
 
 | Cloud & Infra | Testing Tools |
 |---|---|
@@ -71,6 +125,11 @@ let text = `
 
 <a href="https://github.com/Team-Qampus/Quampus_BE"><b>Qampus</b></a> <sub>(2025.01.20 ~ 2025.03.15)</sub><br/>
 대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스
+
+<br/>
+
+<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>Shoot Pointer</b></a> <sub>(2025.05 ~ 2025.12)</sub><br/>
+농구 영상을 업로드하면 개인 하이라이트를 생성하고, 생성된 결과를 커뮤니티 게시글과 랭킹으로 연결하는 서비스.
 
 <br/>
 
