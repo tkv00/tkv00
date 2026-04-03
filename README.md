@@ -4,15 +4,8 @@
 
 
 
-> 안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연 입니다.
-
-<br/>
-
-<div align="center">
-
-### WHERE TO FIND ME
-
-<sub><b>프로젝트, 기술 기록, 협업 연락을 한눈에 볼 수 있도록 정리했습니다.</b></sub>
+> 요구사항을 서버 구조와 데이터 흐름으로 풀어내는 사람.
+> 대용량 트래픽, 분산 시스템, 성능 최적화를 코드로 풀어냅니다.
 
 <br/>
 
@@ -73,7 +66,7 @@
 
 | Database | DevOps |
 |---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
+| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
 
 | Cloud & Infra | Testing Tools |
 |---|---|
@@ -125,8 +118,8 @@
 
 <br/>
 
-<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>Shoot Pointer</b></a> <sub>(2025.05 ~ 2025.12)</sub><br/>
-농구 영상을 업로드하면 개인 하이라이트를 생성하고, 생성된 결과를 커뮤니티 게시글과 랭킹으로 연결하는 서비스.
+<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>ShootPointer</b></a> <sub>(2025.09 ~ 2025.12)</sub><br/>
+농구 영상을 업로드하면 개인 하이라이트를 생성하고, 이를 커뮤니티 게시글·검색·랭킹으로 연결하는 스포츠 하이라이트  서비스
 
 <br/>
 
