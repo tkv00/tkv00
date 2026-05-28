@@ -145,7 +145,7 @@
 <br/>
 
 ## 💭 Recent Posts
+<li><a href="https://codekim3570.tistory.com/entry/TR1L-LLM%EC%9D%B4-%EC%A7%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%AF%BF%EC%8A%B5%EB%8B%88%EA%B9%8C-%E2%80%94-AI-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%A7%84%EC%A7%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EC%82%B0%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-LLM-assisted-Test-1" target='_blank'>[TR1L] &quot;LLM이 짠 테스트 코드를 그대로 믿습니까?&quot; &mdash; AI 결과를 진짜  테스트 자산으로 만드는 LLM-assisted Test (1)</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-3-Burst-Test%EC%99%80-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%A0%95%ED%95%A9%EC%84%B1-%EA%B9%A8%EC%A7%90" target='_blank'>[Holliverse] 이탈률 구현 (3) - Burst Test와 첫 번째 정합성 깨짐</a></li>
 <li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1-Baseline%E2%80%A2Peak-Test" target='_blank'>[Holliverse] 이탈률 구현 (2) - Baseline&bull;Peak Test</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1-Test-Scenario-%EC%9E%91%EC%84%B1" target='_blank'>[Holliverse] 이탈률 구현 (1) - Test Scenario 작성</a></li>
 </ul>
