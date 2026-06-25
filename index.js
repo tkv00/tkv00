@@ -21,16 +21,6 @@ let text = `
 
 <table>
   <tr>
-    <td align="center" colspan="2">
-      <a href="https://kimdoyeon.site" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:38BDF8&height=140&text=OPEN%20PORTFOLIO&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=40&desc=kimdoyeon.site%20%7C%20Backend%20Projects%20and%20Architecture&descAlignY=70&descSize=18" alt="Portfolio"/>
-      </a>
-      <br/>
-      <sub><b>가장 먼저 보면 좋은 메인 포트폴리오</b></sub><br/>
-      <sub>프로젝트 결과, 설계 의도, 구현 경험을 한 번에 정리한 공간</sub>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://codekim3570.tistory.com" target="_blank">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9A3412,100:F97316&height=110&text=TECH%20BLOG&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=codekim3570.tistory.com&descAlignY=70&descSize=16" alt="Tech Blog"/>
