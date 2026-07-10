@@ -38,9 +38,6 @@
 </table>
 
 <p>
-  <a href="https://kimdoyeon.site" target="_blank">
-    <img src="https://img.shields.io/badge/Main%20Link-Portfolio-1D4ED8?style=flat-square&labelColor=0F172A&logoColor=white" alt="Main Link"/>
-  </a>
   <a href="https://codekim3570.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
   </a>
