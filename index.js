@@ -41,9 +41,6 @@ let text = `
 </table>
 
 <p>
-  <a href="https://kimdoyeon.site" target="_blank">
-    <img src="https://img.shields.io/badge/Main%20Link-Portfolio-1D4ED8?style=flat-square&labelColor=0F172A&logoColor=white" alt="Main Link"/>
-  </a>
   <a href="https://codekim3570.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
   </a>
@@ -83,6 +80,7 @@ let text = `
  #### 🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12
  #### 💻SWYP 8기 BE파트 2025.01 ~ 2025.03
  #### 💻[LG U+] URECA 3기 백엔드 2025.08 ~ 2026.03
+ #### 💻SSAFY(서울) 16기 2026.07 ~ 
 <br/>
 
  ## 💭 Certificate
@@ -96,10 +94,6 @@ let text = `
 <a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE"><b>Beginner Fit</b></a> <sub>(2024.07.14 ~ 2024.08.07)</sub><br/>
 운동 초보자를 위한 맞춤형 운동 루틴 추천 및 기록 서비스
 
-<br/>
-
-<a href="https://github.com/Yeungnam-Nyang"><b>영남냥</b></a> <sub>(2024.09.08 ~ 2024.12.15)</sub><br/>
-교내 길고양이 제보, 위치 공유, 돌봄 정보를 제공하는 서비스
 
 <br/>
 
