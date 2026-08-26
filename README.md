@@ -38,7 +38,7 @@
 </table>
 
 <p>
-  <a href="https://codekim3570.tistory.com" target="_blank">
+  <a href="https://tkv00.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
   </a>
   <a href="mailto:tkv0098@gmail.com">
