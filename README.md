@@ -52,34 +52,6 @@
 
 <div align="left">
 
-## 🌱 Open Source
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <a href="https://github.com/microsoft/markitdown">
-        <img src="https://github.com/microsoft.png" width="88" alt="Microsoft"/>
-      </a>
-      <br/>
-      <b>Microsoft</b><br/>
-      <sub>markitdown</sub>
-    </td>
-    <td>
-      <a href="https://github.com/microsoft/markitdown/pull/2412"><b>PR #2412 · Fix CSV parsing for CR-only line endings</b></a>
-      <br/><br/>
-      CR(<code>\r</code>) 단독 줄바꿈을 사용하는 CSV가 Markdown 표 대신 일반 텍스트로 처리되던 문제를 수정했습니다.
-      <br/>
-      <sub>LF·CRLF·CR 레코드 구분자와 따옴표 내부 줄바꿈을 조합한 15개 회귀 테스트를 추가했습니다.</sub>
-      <br/><br/>
-      <a href="https://github.com/microsoft/markitdown/pull/2412"><img src="https://img.shields.io/badge/Pull%20Request-%232412-2DA44E?style=flat-square&logo=github&logoColor=white" alt="Pull Request #2412"/></a>
-      <img src="https://img.shields.io/badge/Python-CSV%20Parser-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python CSV Parser"/>
-      <img src="https://img.shields.io/badge/Regression%20Tests-15-6F42C1?style=flat-square" alt="15 Regression Tests"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 💭 Skills
 
 | Language | Framework |
@@ -153,6 +125,13 @@
 
 ## 💭 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkv00)](https://solved.ac/tkv00/)
+
+<br/>
+
+## 💭 Open Source
+
+<a href="https://github.com/microsoft/markitdown/pull/2412"><b>microsoft/markitdown · PR #2412</b></a> <sub>(2026.09)</sub><br/>
+CR-only 줄바꿈이 포함된 CSV 파싱 문제 수정 및 회귀 테스트 추가
 
 <br/>
 
