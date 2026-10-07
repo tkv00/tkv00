@@ -5,6 +5,12 @@ import {tmpdir} from 'node:os';
 import {join} from 'node:path';
 import {updatePet} from './update.mjs';
 
+test('unsupported private mode stops before querying or creating pet files',async()=>{
+  const root=await mkdtemp(join(tmpdir(),'commitchi-test-'));
+  try { await assert.rejects(updatePet({root,includePrivate:true,fetchDays:async()=>{throw new Error('must not query');}}),/private.*not supported/i); }
+  finally {await rm(root,{recursive:true,force:true});}
+});
+
 test('first successful update adopts today, persists real counts and is byte-idempotent',async()=>{
   const root=await mkdtemp(join(tmpdir(),'commitchi-test-'));
   try {

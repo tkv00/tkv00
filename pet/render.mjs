@@ -72,7 +72,7 @@ ${txt(132, 181, moodText, 12, moodColor, 900)}${creature(s)}
 <rect x="585" y="153" width="324" height="284" rx="25" fill="#fbf8ff" stroke="#d4c5e5" stroke-width="3"/>${txt(613, 184, 'GITHUB GARDEN', 13, '#493667', 900)}${txt(613, 205, 'last 14 days · grass = commits', 10, '#9b86ad', 650)}
 <g>${cells}</g>${txt(613, 334, `best streak  ${n(s.bestStreak)}d`, 11, '#735a93', 800)}${txt(888, 334, `${commits} commits`, 11, '#735a93', 800, 'end')}<path d="M613 351h275" stroke="#ded3ea" stroke-width="2"/>${txt(613, 377, level >= 10 ? 'EVOLUTION  ·  CROWN UNLOCKED' : `EVOLUTION  ·  next at LV ${level >= 6 ? 10 : level >= 3 ? 6 : 3}`, 10, level >= 10 ? '#b57c2d' : '#8f76a7', 850)}${txt(613, 399, 'rule  ·  3일 무커밋 + 반영 유예 24h', 9, '#9b86ad', 700)}
 <g>${txt(92, 604, s.status === 'dead' ? '☁  3일 무커밋 + 반영 유예 24h → 사망  ·  다시 커밋하면 새 생명' : `♡  무커밋 ${n(s.idleDays)}일  ·  ${s.latestCommitDate ? `last commit ${s.latestCommitDate}` : '첫 커밋을 기다리는 중'}`, 11, s.status === 'dead' ? '#927fac' : '#8f76a7', 700)}${txt(908, 604, `as of ${s.asOf || '—'}`, 10, '#9b86ad', 650, 'end')}</g>
-</svg>`;
+</svg>`.replace(/[\t ]+$/gm, '');
 }
 
 export default renderPet;

@@ -10,6 +10,7 @@ const DAY=86_400_000;
 const json=value=>`${JSON.stringify(value,null,2)}\n`;
 
 export async function updatePet({root=defaultRoot,owner='tkv00',asOf=new Date().toISOString().slice(0,10),token,includePrivate=false,excludeRepository=`${owner}/${owner}`,fetchDays=fetchCommitDays}={}) {
+  if(includePrivate) throw new Error('Private contribution mode is not supported in this version; state preserved');
   const ledgerPath=join(root,'pet/data/ledger.json');
   let ledger;
   try {ledger=JSON.parse(await readFile(ledgerPath,'utf8'));}
