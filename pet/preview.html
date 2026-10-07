@@ -1,0 +1,10 @@
+<!doctype html><meta charset="utf-8"><title>COMMITCHI preview</title>
+<style>html,body{margin:0;background:#e9ddf5;color:#493667;font:14px system-ui,sans-serif}main{max-width:1000px;margin:24px auto}img{display:block;width:100%;box-shadow:0 12px 30px #79649c55;border-radius:20px}p{opacity:.75}.controls{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.controls button{border:0;border-radius:999px;padding:9px 14px;background:#fffaf4;color:#493667;cursor:pointer;box-shadow:0 2px 8px #79649c33}.controls button:hover{background:#d6f1e9}</style>
+<main><p>COMMITCHI · live SVG first; buttons are isolated demo fixtures</p><div class="controls"><button data-demo="happy">happy</button><button data-demo="hungry">hungry</button><button data-demo="critical">critical</button><button data-demo="dead">dead</button><button data-demo="stage">stage 10</button><button id="live">show live image</button></div><img id="pet" src="../assets/commitchi.svg" alt="Commitchi preview"></main>
+<script type="module">
+  import {renderPet} from './render.mjs';
+  const image=document.querySelector('#pet'); const live=image.src;
+  const base={owner:'demo',asOf:'2026-10-08',level:3,xp:80,nextLevelXp:120,food:4,totalFoodEarned:9,totalFoodEaten:5,totalCommits:18,streak:4,bestStreak:8,health:100,days:[{date:'2026-10-01',commits:1},{date:'2026-10-02',commits:4},{date:'2026-10-03',commits:0},{date:'2026-10-04',commits:2}],idleDays:0};
+  document.querySelectorAll('[data-demo]').forEach(button=>button.onclick=()=>{const kind=button.dataset.demo; const state={...base,mood:kind==='stage'?'happy':kind,status:kind==='dead'?'dead':'alive',level:kind==='stage'?10:3,xp:kind==='stage'?920:kind==='hungry'?80:kind==='critical'?80:kind==='dead'?0:80,nextLevelXp:kind==='stage'?1100:120,health:kind==='hungry'?66:kind==='critical'?32:kind==='dead'?0:100,idleDays:kind==='hungry'?1:kind==='critical'?2:kind==='dead'?4:0}; image.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(renderPet(state,{owner:'demo',name:'데모 커밋치'}));});
+  document.querySelector('#live').onclick=()=>{image.src=live;};
+</script>

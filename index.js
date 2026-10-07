@@ -1,5 +1,6 @@
 import { writeFileSync } from "fs";
 import Parser from "rss-parser";
+import { petSection } from "./pet/readme-section.mjs";
 
 let text = `
 
@@ -8,6 +9,8 @@ let text = `
 
 
 > 안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연 입니다.
+
+${petSection}
 
 <br/>
 

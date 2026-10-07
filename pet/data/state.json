@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "owner": "tkv00",
+  "adoptedOn": "2026-10-07",
+  "asOf": "2026-10-07",
+  "generation": 1,
+  "status": "alive",
+  "mood": "happy",
+  "level": 1,
+  "xp": 10,
+  "nextLevelXp": 20,
+  "food": 0,
+  "totalFoodEarned": 1,
+  "totalFoodEaten": 1,
+  "commitRemainder": 0,
+  "idleDays": 0,
+  "streak": 1,
+  "bestStreak": 1,
+  "totalCommits": 2,
+  "days": [
+    {
+      "date": "2026-10-07",
+      "commits": 2
+    }
+  ],
+  "history": [],
+  "health": 100,
+  "latestCommitDate": "2026-10-07",
+  "daysAlive": 1
+}
