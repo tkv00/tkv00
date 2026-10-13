@@ -17,15 +17,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Prepare output directory
-        run: mkdir -p dist
-
-      - uses: czl9707/gh-space-shooter@v2
+      - uses: actions/setup-python@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: dist/space-shooter.gif
-          fps: 25
-          no-commit: true
+          python-version: "3.12"
+
+      # czl9707/gh-space-shooter 액션(v2.0.5)은 생성 직후 저장소에 직접 커밋하려고 해서,
+      # 같은 패키지를 CLI로 실행하고 결과 GIF만 따로 올립니다.
+      - name: Generate space shooter GIF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install "gh-space-shooter>=2.0.5,<3"
+          mkdir -p dist
+          gh-space-shooter "${{ github.repository_owner }}" --output dist/space-shooter.gif --fps 25
 
       # 1.7MB 안팎의 GIF가 매일 main 기록에 쌓이지 않도록 output 브랜치에 커밋 하나만 남겨 덮어씁니다.
       - name: Push to output branch
