@@ -1,165 +1,81 @@
-import { writeFileSync } from "fs";
-import Parser from "rss-parser";
+// README.md와 assets/ 아래 SVG를 모두 다시 만듭니다.
+// 블로그 RSS를 먼저 읽고, 실패하면 아무 파일도 건드리지 않고 종료합니다.
+import { createHash } from "crypto";
+import { mkdirSync, rmSync, writeFileSync } from "fs";
+import { dirname } from "path";
+import { fetchPosts } from "./src/blog.js";
+import { loadIcons } from "./src/icons.js";
+import { activities, blog, certificates, openSource, profile, projects, skills } from "./src/profile.js";
+import { renderReadme } from "./src/readme.js";
+import { renderBlogFooter, renderBlogHeader, renderBlogRow } from "./src/svg/blog.js";
+import { renderFlightLog } from "./src/svg/flightlog.js";
+import { renderFooter } from "./src/svg/footer.js";
+import { renderHero } from "./src/svg/hero.js";
+import { renderOpenSource } from "./src/svg/opensource.js";
+import { renderProject } from "./src/svg/project.js";
+import { renderSection } from "./src/svg/section.js";
+import { renderStack } from "./src/svg/stack.js";
 
-let text = `
+const SECTIONS = [
+  ["stack", "TECH STACK", "기술 스택"],
+  ["missions", "MISSIONS", "프로젝트"],
+  ["openSource", "OPEN SOURCE", "오픈소스 기여"],
+  ["blog", "TRANSMISSIONS", "기술 블로그"],
+  ["flightLog", "FLIGHT LOG", "활동 & 자격증"],
+  ["telemetry", "TELEMETRY", "기여 기록 & 알고리즘"],
+];
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=80&pause=1000&color=32ADE4&center=true&vCenter=true&random=true&width=1200&height=140&lines=Hi%2C+Welcome+to+Doyeon's+Github" alt="Typing SVG" /></a>
+const slug = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
+const posts = await fetchPosts(blog);
+posts.forEach((post) => console.log(`${post.date}  ${post.title}\n            ${post.link}`));
 
+const icons = await loadIcons(skills.flatMap((group) => group.items.map(([icon]) => icon)));
+const files = new Map();
 
-> 안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연 입니다.
+files.set("assets/hero.svg", renderHero(profile));
+files.set("assets/stack.svg", renderStack(skills, icons));
+files.set("assets/flight-log.svg", renderFlightLog(activities, certificates));
+files.set("assets/footer.svg", renderFooter(profile));
 
-<br/>
+const sections = Object.fromEntries(
+  SECTIONS.map(([key, title, subtitle], i) => {
+    const path = `assets/sections/${String(i + 1).padStart(2, "0")}-${slug(title)}.svg`;
+    files.set(path, renderSection({ index: i + 1, total: SECTIONS.length, title, subtitle }));
+    return [key, { path, title, subtitle }];
+  }),
+);
 
-<div align="center">
-
-### WHERE TO FIND ME
-
-<sub><b>프로젝트, 기술 기록, 협업 연락을 한눈에 볼 수 있도록 정리했습니다.</b></sub>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://codekim3570.tistory.com" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9A3412,100:F97316&height=110&text=TECH%20BLOG&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=codekim3570.tistory.com&descAlignY=70&descSize=16" alt="Tech Blog"/>
-      </a>
-      <br/>
-      <sub><b>트러블슈팅과 설계 기록</b></sub><br/>
-      <sub>운영 이슈, 성능 개선, 구현 과정을 깊게 남기는 공간</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="mailto:tkv0098@gmail.com">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:991B1B,100:EF4444&height=110&text=EMAIL&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=tkv0098%40gmail.com&descAlignY=70&descSize=16" alt="Email"/>
-      </a>
-      <br/>
-      <sub><b>협업 및 문의 연락처</b></sub><br/>
-      <sub>프로젝트 제안, 협업 문의, 기타 연락을 받을 수 있는 메일</sub>
-    </td>
-  </tr>
-</table>
-
-<p>
-  <a href="https://tkv00.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
-  </a>
-  <a href="mailto:tkv0098@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-EF4444?style=flat-square&labelColor=991B1B&logo=gmail&logoColor=white" alt="Contact"/>
-  </a>
-</p>
-
-</div>
-
-<br/>
-
-<div align="left">
-
-## 💭 Skills
-
-| Language | Framework |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,c,cpp,kotlin,python&perline=7)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,react&perline=6)](https://skillicons.dev) |
-
-| Database | DevOps |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
-
-| Cloud & Infra | Testing Tools |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ec2,s3,ubuntu&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=junit,postman,grafana&perline=6)](https://skillicons.dev) |
-
-| Communication | Security |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=notion,github,slack,figma,jira&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jwt&perline=6)](https://skillicons.dev) |
-
-
-<br/>
-
- ## 💭 Activity
- #### 🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12
- #### 💻SWYP 8기 BE파트 2025.01 ~ 2025.03
- #### 💻[LG U+] URECA 3기 백엔드 2025.08 ~ 2026.03
- #### 💻SSAFY(서울) 16기 2026.07 ~ 
-<br/>
-
- ## 💭 Certificate
- #### ✏️SQLD
- #### ✏️정보처리기사
- #### ✏️ADsP
- #### ✏️TOEIC Speaking 140(IH) 
-
-## 💭 project
-
-<a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE"><b>Beginner Fit</b></a> <sub>(2024.07.14 ~ 2024.08.07)</sub><br/>
-운동 초보자를 위한 맞춤형 운동 루틴 추천 및 기록 서비스
-
-
-<br/>
-
-<a href="https://github.com/software-project-yu/WealthTracker-BE"><b>WealthTracker</b></a> <sub>(2024.09.28 ~ 2024.12.06)</sub><br/>
-가계부 데이터 기반 소비 분석과 맞춤형 피드백을 제공하는 자산 관리 서비스
-
-<br/>
-
-<a href="https://github.com/sw-security-web-app/sw-security-web-app_BE"><b>Vero</b></a> <sub>(2025.01.26 ~ 2025.03.07)</sub><br/>
-정보보안 SW 웹/앱 개발 공모전을 위해 진행한 보안 중심 웹 서비스 프로젝트
-
-<br/>
-
-<a href="https://github.com/Team-Qampus/Quampus_BE"><b>Qampus</b></a> <sub>(2025.01.20 ~ 2025.03.15)</sub><br/>
-대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스
-
-<br/>
-
-<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>Shoot Pointer</b></a> <sub>(2025.05 ~ 2025.12)</sub><br/>
-농구 영상을 업로드하면 개인 하이라이트를 생성하고, 생성된 결과를 커뮤니티 게시글과 랭킹으로 연결하는 서비스.
-
-<br/>
-
-<a href="https://github.com/Team-TR1L"><b>TR1L</b></a> <sub>(2026.01.07 ~ 2026.01.27)</sub> 🏆 <b>URECA 3기 종합 프로젝트 우수상</b><br/>
-대규모 청구·정산 데이터를 기반으로 고객별 청구서 생성과 발송을 안정적으로 처리하는 통신 정산 플랫폼
-
-<br/>
-
-<a href="https://github.com/one-year-gap"><b>Holliverse</b></a> <sub>(2026.02.04 ~ 2026.03.20)</sub> 🏆 <b>URECA 3기 최종융합 프로젝트 우수상</b><br/>
-고객 이탈률 예측, 추천 기능, 상담 데이터 분석을 통해 데이터 기반 운영 의사결정을 지원하는 CRM 서비스
-<br/>
-
-## 💭 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkv00)](https://solved.ac/tkv00/)
-
-<br/>
-
-## 💭 Open Source
-
-<a href="https://github.com/microsoft/markitdown/pull/2412"><b>microsoft/markitdown · PR #2412</b></a> <sub>(2026.09)</sub><br/>
-CR-only 줄바꿈이 포함된 CSV 파싱 문제 수정 및 회귀 테스트 추가
-
-<br/>
-
-## 💭 Recent Posts
-`;
-
-const parser = new Parser({
-  headers: {
-    Accept: "application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8",
-  },
+const projectCards = projects.map((project, i) => {
+  const mission = projects.length - i;
+  const path = `assets/projects/${String(mission).padStart(2, "0")}-${slug(project.name)}.svg`;
+  files.set(path, renderProject(project, mission));
+  return { project, path };
 });
 
-(async () => {
-  //피드
-  const feed = await parser.parseURL("https://codekim3570.tistory.com/rss");
+const openSourceCards = openSource.map((contribution) => {
+  const path = `assets/open-source/${slug(contribution.repo.split("/").pop())}-${contribution.number}.svg`;
+  files.set(path, renderOpenSource(contribution));
+  return { contribution, path };
+});
 
-  for (let i = 0; i < 3; i++) {
-    const { title, link } = feed.items[i];
-    console.log(`${title}\n${link}\n`);
-    text += `<li><a href="${link}" target='_blank'>${title}</a></li>\n`;
-  }
+files.set("assets/blog/header.svg", renderBlogHeader());
+posts.forEach((post, i) => files.set(`assets/blog/post-${i + 1}.svg`, renderBlogRow(post, i)));
+files.set("assets/blog/footer.svg", renderBlogFooter(blog));
 
-  text += `</ul>\n`;
+const src = (path) => {
+  const content = files.get(path);
+  if (!content) throw new Error(`생성되지 않은 이미지입니다: ${path}`);
+  return `${path}?v=${createHash("sha1").update(content).digest("hex").slice(0, 8)}`;
+};
 
-  writeFileSync("README.md", text, "utf-8", (e) => {
-    console.log(e);
-  });
-})();
+const readme = renderReadme({ profile, blog, posts, projects: projectCards, openSource: openSourceCards, sections, src });
+
+// 지난 실행에서 만든 이미지 중 더 이상 쓰지 않는 파일이 남지 않도록 assets/를 통째로 다시 씁니다.
+rmSync("assets", { recursive: true, force: true });
+for (const [path, content] of files) {
+  mkdirSync(dirname(path), { recursive: true });
+  writeFileSync(path, content);
+}
+writeFileSync("README.md", readme);
+console.log(`README.md와 이미지 ${files.size}개를 만들었습니다.`);
