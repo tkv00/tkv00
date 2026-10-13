@@ -1,43 +1,48 @@
 name: Readme Update
 
-# Controls when the workflow will run
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  # 1시간에 한번씩 아래 스크립트를 실행한다.
+    branches: [main]
+  # 1시간마다 블로그 RSS를 읽어 README와 블로그 카드 이미지를 갱신합니다.
   schedule:
-    - cron: "0 */1 * * *"
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 정기 실행과 push가 겹쳐도 차례대로 돌아가게 해서 push 충돌을 막습니다.
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 jobs:
-  # This workflow contains a single job called "build"
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v7
         with:
-          node-version: 20
+          ref: main
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
 
       - name: Install dependencies
-        run: | 
-          npm ci
-          npm install rss-parser
+        run: npm ci
 
       - name: Update README
         run: npm start
 
-      - name: Check if there are any changes
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
       - name: Commit README
-        if: steps.verify_diff.outputs.changed == 'true'
         run: |
+          git add README.md assets src/icons
+          if git diff --cached --quiet; then
+            echo "변경 사항이 없습니다."
+            exit 0
+          fi
           git config --local user.email "tkv00@naver.com"
           git config --local user.name "tkv00"
-          git add .
           git commit -m "Update README.md"
-          git push origin main
+          git push origin HEAD:main
