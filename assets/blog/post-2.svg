@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="58" viewBox="0 0 1000 58" fill="none" role="img" aria-label="[Holliverse] 이탈률 구현 (1) - Test Scenario 작성 (2026.04.01)">
+<title>[Holliverse] 이탈률 구현 (1) - Test Scenario 작성 (2026.04.01)</title>
+<style>.tw1{animation:tw 3.4s ease-in-out infinite}.tw2{animation:tw 5.2s ease-in-out infinite 1.3s}.tw3{animation:tw 7.6s ease-in-out infinite 2.6s}@keyframes tw{0%,100%{opacity:1}50%{opacity:.2}}</style>
+
+  <rect width="1000" height="58" fill="#0d1426"/>
+  <g><circle cx="322.2" cy="48.5" r="0.91" fill="#cfe3ff" opacity="0.67"/><circle cx="438.1" cy="48.2" r="0.54" fill="#cfe3ff" opacity="0.18"/></g>
+<g class="tw2"><circle cx="55.4" cy="50.6" r="0.64" fill="#e9d5ff" opacity="0.51"/></g>
+<g class="tw3"><circle cx="78" cy="50" r="0.35" fill="#a5f3fc" opacity="0.25"/></g>
+  <path d="M0.75 0V58M999.25 0V58" stroke="#2b3655" stroke-width="1.5"/>
+  <path d="M38 22L49 29L38 36Z" stroke="#58a6ff" stroke-width="1.6" stroke-linejoin="round"/>
+  <text x="66" y="35" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, &#39;Apple SD Gothic Neo&#39;, &#39;Noto Sans KR&#39;, &#39;Malgun Gothic&#39;, &#39;Noto Sans&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Noto Color Emoji&#39;" font-size="18" fill="#c9d1d9">[Holliverse] 이탈률 구현 (1) - Test Scenario 작성</text>
+  <text x="966" y="35" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, &#39;Apple SD Gothic Neo&#39;, &#39;Noto Sans KR&#39;, &#39;Malgun Gothic&#39;, &#39;Noto Sans&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Noto Color Emoji&#39;" font-size="16" fill="#8b949e" style="font-variant-numeric:tabular-nums">2026.04.01</text>
+</svg>

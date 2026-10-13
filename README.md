@@ -1,142 +1,80 @@
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=80&pause=1000&color=32ADE4&center=true&vCenter=true&random=true&width=1200&height=140&lines=Hi%2C+Welcome+to+Doyeon's+Github" alt="Typing SVG" /></a>
-
-
-
-> 안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연 입니다.
-
-<br/>
-
+<!-- 이 파일은 `npm start`(index.js)가 자동으로 만듭니다. 내용은 src/profile.js에서 고쳐 주세요. -->
 <div align="center">
 
-### WHERE TO FIND ME
-
-<sub><b>프로젝트, 기술 기록, 협업 연락을 한눈에 볼 수 있도록 정리했습니다.</b></sub>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://codekim3570.tistory.com" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9A3412,100:F97316&height=110&text=TECH%20BLOG&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=codekim3570.tistory.com&descAlignY=70&descSize=16" alt="Tech Blog"/>
-      </a>
-      <br/>
-      <sub><b>트러블슈팅과 설계 기록</b></sub><br/>
-      <sub>운영 이슈, 성능 개선, 구현 과정을 깊게 남기는 공간</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="mailto:tkv0098@gmail.com">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:991B1B,100:EF4444&height=110&text=EMAIL&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=42&desc=tkv0098%40gmail.com&descAlignY=70&descSize=16" alt="Email"/>
-      </a>
-      <br/>
-      <sub><b>협업 및 문의 연락처</b></sub><br/>
-      <sub>프로젝트 제안, 협업 문의, 기타 연락을 받을 수 있는 메일</sub>
-    </td>
-  </tr>
-</table>
+<p>
+<img src="assets/hero.svg?v=076d6f8c" width="100%" alt="김도연 (DOYEON KIM) | BACKEND ENGINEER | 요구사항을 서버 구조와 데이터 흐름으로 풀어냅니다.">
+</p>
 
 <p>
-  <a href="https://tkv00.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Writing-Tech%20Blog-F97316?style=flat-square&labelColor=9A3412&logo=tistory&logoColor=white" alt="Writing"/>
-  </a>
-  <a href="mailto:tkv0098@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-EF4444?style=flat-square&labelColor=991B1B&logo=gmail&logoColor=white" alt="Contact"/>
-  </a>
+<a href="https://tkv00.github.io/"><img src="https://img.shields.io/badge/Blog-tkv00.github.io-8B5CF6?style=for-the-badge&amp;labelColor=1E1B4B&amp;logo=astro&amp;logoColor=white" alt="Blog"></a>
+<a href="mailto:tkv0098@gmail.com"><img src="https://img.shields.io/badge/Email-tkv0098%40gmail.com-38BDF8?style=for-the-badge&amp;labelColor=0B1A3A&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+<a href="https://solved.ac/tkv00/"><img src="https://img.shields.io/badge/solved.ac-tkv00-F472B6?style=for-the-badge&amp;labelColor=3B0A2A" alt="solved.ac"></a>
+</p>
+
+<p>
+안녕하세요, 요구 사항을 서버 구조 설계와 데이터 흐름으로 풀어내는 백엔드 개발자 김도연입니다.
+</p>
+
+<br>
+
+<p>
+<img src="assets/sections/01-tech-stack.svg?v=a71d8be0" width="100%" alt="TECH STACK 기술 스택"><br>
+<img src="assets/stack.svg?v=f285cf26" width="100%" alt="기술 스택">
+</p>
+
+<br>
+
+<p>
+<img src="assets/sections/02-missions.svg?v=ea15eda7" width="100%" alt="MISSIONS 프로젝트"><br>
+<a href="https://github.com/one-year-gap"><img src="assets/projects/07-holliverse.svg?v=a162b5c8" width="49%" alt="Holliverse: 고객 이탈률 예측, 추천 기능, 상담 데이터 분석을 통해 데이터 기반 운영 의사결정을 지원하는 CRM 서비스"></a>
+<a href="https://github.com/Team-TR1L"><img src="assets/projects/06-tr1l.svg?v=eb831c33" width="49%" alt="TR1L: 대규모 청구·정산 데이터를 기반으로 고객별 청구서 생성과 발송을 안정적으로 처리하는 통신 정산 플랫폼"></a>
+<a href="https://github.com/ShootPointer/ShootPointer_BE"><img src="assets/projects/05-shoot-pointer.svg?v=a3bc7a25" width="49%" alt="Shoot Pointer: 농구 영상을 업로드하면 개인 하이라이트를 생성하고, 생성된 결과를 커뮤니티 게시글과 랭킹으로 연결하는 서비스"></a>
+<a href="https://github.com/Team-Qampus/Quampus_BE"><img src="assets/projects/04-qampus.svg?v=e3ccb09e" width="49%" alt="Qampus: 대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스"></a>
+<a href="https://github.com/sw-security-web-app/sw-security-web-app_BE"><img src="assets/projects/03-vero.svg?v=1b54e1fe" width="49%" alt="Vero: 정보보안 SW 웹/앱 개발 공모전을 위해 진행한 보안 중심 웹 서비스 프로젝트"></a>
+<a href="https://github.com/software-project-yu/WealthTracker-BE"><img src="assets/projects/02-wealthtracker.svg?v=4a2c89e1" width="49%" alt="WealthTracker: 가계부 데이터 기반 소비 분석과 맞춤형 피드백을 제공하는 자산 관리 서비스"></a>
+<a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE"><img src="assets/projects/01-beginner-fit.svg?v=3eea268c" width="49%" alt="Beginner Fit: 운동 초보자를 위한 맞춤형 운동 루틴 추천 및 기록 서비스"></a>
+</p>
+
+<br>
+
+<p>
+<img src="assets/sections/03-open-source.svg?v=d9f07e10" width="100%" alt="OPEN SOURCE 오픈소스 기여"><br>
+<a href="https://github.com/microsoft/markitdown/pull/2412"><img src="assets/open-source/markitdown-2412.svg?v=a5e9c774" width="100%" alt="microsoft/markitdown #2412 Fix CSV parsing for CR-only line endings"></a>
+</p>
+
+<br>
+
+<p>
+<img src="assets/sections/04-transmissions.svg?v=623fc0a8" width="100%" alt="TRANSMISSIONS 기술 블로그"><br>
+<a href="https://tkv00.github.io/"><img src="assets/blog/header.svg?v=76826761" width="100%" align="top" alt="최근 블로그 글"></a><br>
+<a href="https://tkv00.github.io/posts/tr1l-quot-llm%EC%9D%B4-%EC%A7%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%AF%BF%EC%8A%B5%EB%8B%88%EA%B9%8C-quot-ai-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%A7%84%EC%A7%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EC%82%B0%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-llm"><img src="assets/blog/post-1.svg?v=d3a9da69" width="100%" align="top" alt="[TR1L] &quot;LLM이 짠 테스트 코드를 그대로 믿습니까?&quot; — AI 결과를 진짜 테스트 자산으로 만드는 LLM-assisted Test (1) (2026.05.29)"></a><br>
+<a href="https://tkv00.github.io/posts/holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-1"><img src="assets/blog/post-2.svg?v=ed6b4add" width="100%" align="top" alt="[Holliverse] 이탈률 구현 (1) - Test Scenario 작성 (2026.04.01)"></a><br>
+<a href="https://tkv00.github.io/posts/holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-2"><img src="assets/blog/post-3.svg?v=fbc4861c" width="100%" align="top" alt="[Holliverse] 이탈률 구현 (2) - Baseline•Peak Test (2026.04.01)"></a><br>
+<a href="https://tkv00.github.io/posts/holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-3"><img src="assets/blog/post-4.svg?v=2d592ce0" width="100%" align="top" alt="[Holliverse] 이탈률 구현 (3) - Burst Test와 첫 번째 정합성 깨짐 (2026.04.01)"></a><br>
+<a href="https://tkv00.github.io/posts/tr1l-%ED%86%B5%EC%8B%A0%EC%82%AC-100%EB%A7%8C-%EC%B2%AD%EA%B5%AC%EC%84%9C-%EC%83%9D%EC%84%B1"><img src="assets/blog/post-5.svg?v=ca65607e" width="100%" align="top" alt="[TR1L] 통신사 100만 청구서 생성 - Spring Batch 정산 Job 설계 (2026.03.30)"></a><br>
+<a href="https://tkv00.github.io/"><img src="assets/blog/footer.svg?v=cc06ae64" width="100%" align="top" alt="블로그 전체 글 보기"></a>
+</p>
+
+<br>
+
+<p>
+<img src="assets/sections/05-flight-log.svg?v=61649559" width="100%" alt="FLIGHT LOG 활동 &amp; 자격증"><br>
+<img src="assets/flight-log.svg?v=a2f6965d" width="100%" alt="활동과 자격증">
+</p>
+
+<br>
+
+<p>
+<img src="assets/sections/06-telemetry.svg?v=cbb4481f" width="100%" alt="TELEMETRY 기여 기록 &amp; 알고리즘"><br>
+<img src="https://raw.githubusercontent.com/tkv00/tkv00/output/space-shooter.gif" width="100%" alt="GitHub 기여 기록 우주 슈팅 게임"><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tkv00&amp;locale=ko&amp;background=135%2C0A1030%2C170B36&amp;border=2A3A66&amp;stroke=2A3A66&amp;ring=A78BFA&amp;fire=F472B6&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=67E8F9&amp;sideLabels=93C5FD&amp;dates=7A88AD&amp;border_radius=16" width="52%" alt="GitHub Streak"></a>
+<a href="https://solved.ac/tkv00/"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tkv00" width="42%" alt="solved.ac 프로필"></a>
+</p>
+
+<br>
+
+<p>
+<img src="assets/footer.svg?v=32b25dee" width="100%" alt="Thanks for visiting">
 </p>
 
 </div>
-
-<br/>
-
-<div align="left">
-
-## 💭 Skills
-
-| Language | Framework |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,c,cpp,kotlin,python&perline=7)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,react&perline=6)](https://skillicons.dev) |
-
-| Database | DevOps |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,dbeaver,sqlite,redis&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,githubactions&perline=6)](https://skillicons.dev) |
-
-| Cloud & Infra | Testing Tools |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ec2,s3,ubuntu&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=junit,postman,grafana&perline=6)](https://skillicons.dev) |
-
-| Communication | Security |
-|---|---|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=notion,github,slack,figma,jira&perline=6)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jwt&perline=6)](https://skillicons.dev) |
-
-
-<br/>
-
- ## 💭 Activity
- #### 🦁멋쟁이 사자처럼 12th 2024.03 ~ 2024.12
- #### 💻SWYP 8기 BE파트 2025.01 ~ 2025.03
- #### 💻[LG U+] URECA 3기 백엔드 2025.08 ~ 2026.03
- #### 💻SSAFY(서울) 16기 2026.07 ~ 
-<br/>
-
- ## 💭 Certificate
- #### ✏️SQLD
- #### ✏️정보처리기사
- #### ✏️ADsP
- #### ✏️TOEIC Speaking 140(IH) 
-
-## 💭 project
-
-<a href="https://github.com/Likelion-YeungNam-Univ/12th-BeginnerFit-FE"><b>Beginner Fit</b></a> <sub>(2024.07.14 ~ 2024.08.07)</sub><br/>
-운동 초보자를 위한 맞춤형 운동 루틴 추천 및 기록 서비스
-
-
-<br/>
-
-<a href="https://github.com/software-project-yu/WealthTracker-BE"><b>WealthTracker</b></a> <sub>(2024.09.28 ~ 2024.12.06)</sub><br/>
-가계부 데이터 기반 소비 분석과 맞춤형 피드백을 제공하는 자산 관리 서비스
-
-<br/>
-
-<a href="https://github.com/sw-security-web-app/sw-security-web-app_BE"><b>Vero</b></a> <sub>(2025.01.26 ~ 2025.03.07)</sub><br/>
-정보보안 SW 웹/앱 개발 공모전을 위해 진행한 보안 중심 웹 서비스 프로젝트
-
-<br/>
-
-<a href="https://github.com/Team-Qampus/Quampus_BE"><b>Qampus</b></a> <sub>(2025.01.20 ~ 2025.03.15)</sub><br/>
-대학생 대상 질문·정보 공유 기반 캠퍼스 커뮤니티 서비스
-
-<br/>
-
-<a href="https://github.com/ShootPointer/ShootPointer_BE"><b>Shoot Pointer</b></a> <sub>(2025.05 ~ 2025.12)</sub><br/>
-농구 영상을 업로드하면 개인 하이라이트를 생성하고, 생성된 결과를 커뮤니티 게시글과 랭킹으로 연결하는 서비스.
-
-<br/>
-
-<a href="https://github.com/Team-TR1L"><b>TR1L</b></a> <sub>(2026.01.07 ~ 2026.01.27)</sub> 🏆 <b>URECA 3기 종합 프로젝트 우수상</b><br/>
-대규모 청구·정산 데이터를 기반으로 고객별 청구서 생성과 발송을 안정적으로 처리하는 통신 정산 플랫폼
-
-<br/>
-
-<a href="https://github.com/one-year-gap"><b>Holliverse</b></a> <sub>(2026.02.04 ~ 2026.03.20)</sub> 🏆 <b>URECA 3기 최종융합 프로젝트 우수상</b><br/>
-고객 이탈률 예측, 추천 기능, 상담 데이터 분석을 통해 데이터 기반 운영 의사결정을 지원하는 CRM 서비스
-<br/>
-
-## 💭 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkv00)](https://solved.ac/tkv00/)
-
-<br/>
-
-## 💭 Open Source
-
-<a href="https://github.com/microsoft/markitdown/pull/2412"><b>microsoft/markitdown · PR #2412</b></a> <sub>(2026.09)</sub><br/>
-CR-only 줄바꿈이 포함된 CSV 파싱 문제 수정 및 회귀 테스트 추가
-
-<br/>
-
-## 💭 Recent Posts
-<li><a href="https://codekim3570.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%A0%84" target='_blank'>블로그 이전</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/TR1L-LLM%EC%9D%B4-%EC%A7%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%AF%BF%EC%8A%B5%EB%8B%88%EA%B9%8C-%E2%80%94-AI-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%A7%84%EC%A7%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EC%82%B0%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-LLM-assisted-Test-1" target='_blank'>[TR1L] &quot;LLM이 짠 테스트 코드를 그대로 믿습니까?&quot; &mdash; AI 결과를 진짜  테스트 자산으로 만드는 LLM-assisted Test (1)</a></li>
-<li><a href="https://codekim3570.tistory.com/entry/Holliverse-%EC%9D%B4%ED%83%88%EB%A5%A0-%EA%B5%AC%ED%98%84-3-Burst-Test%EC%99%80-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%A0%95%ED%95%A9%EC%84%B1-%EA%B9%A8%EC%A7%90" target='_blank'>[Holliverse] 이탈률 구현 (3) - Burst Test와 첫 번째 정합성 깨짐</a></li>
-</ul>

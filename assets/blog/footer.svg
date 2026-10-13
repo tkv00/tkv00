@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60" fill="none" role="img" aria-label="깃돌 블로그 전체 글 보기">
+<title>깃돌 블로그 전체 글 보기</title>
+
+  <path d="M0 0V44Q0 60 16 60H984Q1000 60 1000 44V0Z" fill="#0d1426"/>
+  <path d="M0.75 0V44Q0.75 59.25 16 59.25H984Q999.25 59.25 999.25 44V0" stroke="#2b3655" stroke-width="1.5"/>
+  <text x="34" y="34" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, &#39;Apple SD Gothic Neo&#39;, &#39;Noto Sans KR&#39;, &#39;Malgun Gothic&#39;, &#39;Noto Sans&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Noto Color Emoji&#39;" font-size="14.5" fill="#6e7c9f">깃돌 | 부하를 걸어보고, 깨지는 지점을 찾고, 왜 깨졌는지 적어둡니다.</text>
+  <text x="966" y="34" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, &#39;Apple SD Gothic Neo&#39;, &#39;Noto Sans KR&#39;, &#39;Malgun Gothic&#39;, &#39;Noto Sans&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Noto Color Emoji&#39;" font-size="15" font-weight="600" fill="#58a6ff">전체 글 보기 →</text>
+</svg>
