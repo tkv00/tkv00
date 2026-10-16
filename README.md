@@ -40,6 +40,7 @@
 <p>
 <img src="assets/sections/03-open-source.svg?v=d9f07e10" width="100%" alt="OPEN SOURCE 오픈소스 기여"><br>
 <a href="https://github.com/microsoft/markitdown/pull/2412"><img src="assets/open-source/markitdown-2412.svg?v=a5e9c774" width="100%" alt="microsoft/markitdown #2412 Fix CSV parsing for CR-only line endings"></a>
+<a href="https://github.com/github/spec-kit/pull/4964"><img src="assets/open-source/spec-kit-4964.svg?v=603e4a85" width="100%" alt="github/spec-kit #4964 fix(extensions): list commands the way the active agent registers them"></a>
 </p>
 
 <br>
