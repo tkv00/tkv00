@@ -143,4 +143,13 @@ export const openSource = [
     status: "MERGED",
     date: "2026.09",
   },
+  {
+    repo: "github/spec-kit",
+    number: 4964,
+    url: "https://github.com/github/spec-kit/pull/4964",
+    title: "fix(extensions): list commands the way the active agent registers them",
+    description: "확장 명령 목록이 에이전트가 실제로 등록한 이름과 다르게 표시되던 문제 수정 및 테스트 추가",
+    status: "MERGED",
+    date: "2026.10",
+  },
 ];
